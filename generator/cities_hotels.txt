@@ -1,0 +1,688 @@
+Paris, France:
+
+Hotel Ritz Paris
+Shangri-La Hotel Paris
+Le Bristol ParisF
+
+Rome, Italy:
+
+Hotel de Russie
+Grand Hotel de la Minerve
+Hotel Eden
+Barcelona, Spain:
+
+Hotel Arts Barcelona
+Casa Fuster
+Majestic Hotel & Spa Barcelona
+Amsterdam, Netherlands:
+
+The Dylan Amsterdam
+The Grand Hotel Amsterdam
+Conservatorium Hotel
+Berlin, Germany:
+
+Adlon Kempinski Berlin
+The Ritz-Carlton, Berlin
+Grand Hyatt Berlin
+London, England:
+
+The Ritz London
+The Savoy
+The Dorchester
+Vienna, Austria:
+
+The Ritz-Carlton Vienna
+Grand Hotel Wien
+Hotel Sacher Wien
+Budapest, Hungary:
+
+Four Seasons Hotel Gresham Palace Budapest
+The Ritz-Carlton Budapest
+Hotel Astoria Budapest
+Munich, Germany:
+
+The Ritz-Carlton, Munich
+Hotel Bayerischer Hof
+Mandarin Oriental, Munich
+Istanbul, Turkey:
+
+Four Seasons Hotel Istanbul at the Bosphorus
+The Ritz-Carlton, Istanbul
+Pera Palace Hotel, Jumeirah
+Prague, Czech Republic:
+
+Mandarin Oriental, Prague
+The Augustine, a Luxury Collection Hotel, Prague
+Four Seasons Hotel Prague
+Geneva, Switzerland:
+
+Four Seasons Hotel des Bergues Geneva
+The Ritz-Carlton, Geneva
+InterContinental Geneva
+Edinburgh, Scotland:
+
+The Balmoral Hotel
+The Chester Residence
+The Witchery by the Castle
+Copenhagen, Denmark:
+
+Nimb Hotel
+Skt. Petri
+Hotel D`Angleterre
+Helsinki, Finland:
+
+Kamp Hotel
+Hotel St. George
+Hotel Haven
+Brussels, Belgium:
+
+Hotel Metropole Brussels
+The Dominican
+Le Plaza Brussels
+Stockholm, Sweden:
+
+Grand Hotel Stockholm
+Hotel Diplomat
+Hotel Skeppsholmen
+Athens, Greece:
+
+Grand Hyatt Athens
+The King George, a Luxury Collection Hotel, Athens
+Hotel Grande Bretagne, a Luxury Collection Hotel
+
+Tokyo, Japan:
+
+The Ritz-Carlton, Tokyo
+Palace Hotel Tokyo
+The Imperial Hotel Tokyo
+Bangkok, Thailand:
+
+The Mandarin Oriental, Bangkok
+The Siam
+Anantara Siam Bangkok Hotel
+Singapore, Singapore:
+
+The Fullerton Hotel Singapore
+Marina Bay Sands
+Raffles Hotel Singapore
+Hong Kong, Hong Kong:
+
+The Peninsula Peninsula, Hong Kong
+The Mandarin Oriental, Hong Kong
+The Peninsula House
+Shanghai, China:
+
+The Ritz-Carlton, Shanghai, Pudong
+The Bund Hotel Shanghai
+The Westin Bund Center, Shanghai
+Seoul, South Korea:
+
+The Shilla Seoul
+The Ritz-Carlton, Seoul
+Grand Hyatt Seoul
+Mumbai, India:
+
+The Taj Mahal Palace, Mumbai
+The Leela Mumbai
+The Oberoi Mumbai
+Kuala Lumpur, Malaysia:
+
+The Ritz-Carlton, Kuala Lumpur
+Mandarin Oriental, Kuala Lumpur
+Grand Hyatt Kuala Lumpur
+Beijing, China:
+
+The Ritz-Carlton, Beijing
+The St. Regis Beijing
+The Opposite House
+Seoul, Korea:
+Lotte Hotel Seoul
+Grand Hilton Seoul
+Novotel Ambassador Gangnam
+Busan, Korea:
+Paradise Hotel Busan
+Haeundae Grand Hotel
+The Westin Chosun Busan
+
+Jeju, Korea:
+The Shilla Jeju
+Lotte Hotel Jeju
+Jeju KAL Hotel
+
+Incheon, Korea:
+Paradise City
+Renaissance Incheon Hotel
+The Conrad Seoul
+
+Gyeongju, Korea:
+Hilton Gyeongju
+InterContinental Gyeongju Resort
+The Suites Hotel Gyeongju
+Cairo, Egypt:
+Four Seasons Hotel Cairo at Nile Plaza
+InterContinental Cairo Citystars
+Fairmont Nile City
+Marrakech, Morocco:
+Royal Mansour Marrakech
+La Mamounia
+Four Seasons Resort Marrakech
+Cape Town, South Africa:
+The Table Bay Hotel
+The Commodore Hotel
+Cape Town Marriott Hotel Crystal Towers
+Johannesburg, South Africa:
+InterContinental Johannesburg Sandton Towers
+The Westcliff
+The Michelangelo Hotel
+Tunis, Tunisia:
+Le Palace Tunis
+Le Royal Hammamet
+The Residence Tunis
+New York City, USA:
+The Plaza Hotel
+The Ritz-Carlton New York, Central Park
+The St. Regis New York
+Mexico City, Mexico:
+The St. Regis Mexico City
+JW Marriott Hotel Mexico City
+Camino Real Polanco Mexico
+Toronto, Canada:
+The Ritz-Carlton, Toronto
+Fairmont Royal York
+Four Seasons Hotel Toronto
+Los Angeles, USA:
+The Beverly Hills Hotel
+The Peninsula Hotel Beverly Hills
+The Ritz-Carlton, Los Angeles
+Miami, USA:
+The Setai Miami Beach
+The Ritz-Carlton South Beach
+SLS Brickell
+Rio de Janeiro, Brazil:
+Belmond Copacabana Palace
+JW Marriott Hotel Rio de Janeiro
+The Sofitel Rio de Janeiro Ipanema
+Buenos Aires, Argentina:
+Palermo Hollywood
+Faena Hotel Buenos Aires
+Alvear Palace Hotel
+Lima, Peru:
+Belmond Miraflores Park
+JW Marriott Hotel Lima
+Casa Andina Premium Miraflores
+Bogota, Colombia:
+Four Seasons Hotel Bogota
+JW Marriott Hotel Bogota
+B.O.G. Hotel
+Santiago, Chile:
+The Ritz-Carlton, Santiago
+W Santiago
+The Aubrey Boutique Hotel
+Madrid, Spain:
+The Westin Palace, Madrid
+AC Hotel Carlton Madrid
+Gran Melia Palacio de los Duques
+Seville, Spain:
+Casa Imperial Sevilla
+Eurostars Torre Sevilla
+Hotel Alfonso XIII, a Luxury Collection Hotel, Seville
+Valencia, Spain:
+Las Arenas Balneario Resort
+Hospes Palau de la Mar
+SH Valencia Palace
+Granada, Spain:
+Parador de Granada
+Hospes Palacio de San Esteban
+Hotel Casa 1800 Granada
+Nice, France:
+Hotel La Perouse
+Hotel Le Negresco
+Hotel Suisse
+Marseille, France:
+InterContinental Marseille - Hotel Dieu
+Sofitel Marseille Vieux Port
+Hotel Le Petit Nice Passedat
+Lyon, France:
+Fourviere Hotel
+Crowne Plaza Lyon - Cite Internationale
+Cour des Loges
+Bordeaux, France:
+Hotel de Seze
+InterContinental Bordeaux - Le Grand Hotel
+La Maison Fredon
+Dubai, UAE:
+Burj Al Arab Jumeirah
+The Palace Downtown Dubai
+JW Marriott Marquis Hotel Dubai
+Abu Dhabi, UAE:
+Emirates Palace
+The St. Regis Abu Dhabi
+The Ritz-Carlton Abu Dhabi, Grand Canal
+Doha, Qatar:
+The Ritz-Carlton, Doha
+Sheraton Grand Doha Resort & Convention Hotel
+The St. Regis Doha
+Riyadh, Saudi Arabia:
+Movenpick Hotel Riyadh
+The Ritz-Carlton, Riyadh
+Four Seasons Hotel Riyadh at Kingdom Centre
+Jeddah, Saudi Arabia:
+InterContinental Jeddah
+Hilton Jeddah
+Al Hamra Hotel
+Manama, Bahrain:
+The Ritz-Carlton, Bahrain
+The Westin Bahrain City Centre
+Four Seasons Hotel Bahrain Bay
+Muscat, Oman:
+Al Bustan Palace, A Ritz-Carlton Hotel
+The Chedi Muscat
+Shangri-La Barr Al Jissah Resort & Spa, Muscat
+Amman, Jordan:
+Grand Hyatt Amman
+Four Seasons Hotel Amman
+The Royal House Hotel
+Beirut, Lebanon:
+Phoenicia Hotel Beirut
+Le Gray, Beirut
+InterContinental Phoenicia Beirut
+Kuwait City, Kuwait:
+JW Marriott Kuwait City
+Crowne Plaza Kuwait Al Thuraya City
+Sheraton Kuwait, a Luxury Collection Hotel, Kuwait City
+Moscow, Russia:
+Lotte Hotel Moscow
+Ritz-Carlton Moscow
+The St. Regis Moscow Nikolskaya
+Istanbul, Turkey:
+Four Seasons Hotel Istanbul at the Bosphorus
+The Ritz-Carlton, Istanbul
+The St. Regis Istanbul
+London, United Kingdom:
+The Ritz London
+Claridge's
+The Dorchester
+Paris, France:
+Le Meurice
+Shangri-La Hotel, Paris
+Four Seasons Hotel George V, Paris
+Berlin, Germany:
+Hotel Adlon Kempinski
+InterContinental Berlin
+The Ritz-Carlton, Berlin
+Madrid, Spain:
+The Westin Palace, Madrid
+The Ritz Madrid
+AC Hotel Atocha by Marriott
+Rome, Italy:
+Hotel Eden
+The St. Regis Rome
+The First Luxury Art Hotel Roma
+Athens, Greece:
+The King George, a Luxury Collection Hotel, Athens
+Hilton Athens
+The St. Regis Athens
+New York City, United States:
+The Plaza Hotel
+The Ritz-Carlton New York, Central Park
+The St. Regis New York
+Los Angeles, United States:
+The Beverly Hills Hotel
+The Ritz-Carlton, Los Angeles
+Four Seasons Hotel Los Angeles at Beverly Hills
+Miami, United States:
+The Ritz-Carlton, South Beach
+Loews Miami Beach Hotel
+The Setai, Miami Beach
+Mexico City, Mexico:
+The St. Regis Mexico City
+JW Marriott Mexico City
+Camino Real Mexico City
+Rio de Janeiro, Brazil:
+Sofitel Rio de Janeiro Ipanema
+Belmond Copacabana Palace
+The Fasano Rio de Janeiro
+Buenos Aires, Argentina:
+Alvear Palace Hotel
+Four Seasons Hotel Buenos Aires
+Palermo Hollywood Boutique Hotel
+Johannesburg, South Africa:
+The Saxon Hotel, Villas & Spa
+The Michelangelo Hotel
+The Westcliff
+Cairo, Egypt:
+Four Seasons Hotel Cairo at Nile Plaza
+The Ritz-Carlton, Cairo
+InterContinental Cairo Citystars
+Marrakesh, Morocco:
+Royal Mansour Marrakech
+La Sultana Marrakech
+Mandarin Oriental, Marrakech
+Tunis, Tunisia:
+The Residence Tunis
+The Golden Tulip Carthage Tunis
+The Palmarina Hammamet
+Accra, Ghana:
+The Golden Tulip Accra
+Movenpick Ambassador Hotel Accra
+La Villa Boutique Hotel
+Lagos, Nigeria:
+Eko Hotel & Suites
+Four Points by Sheraton Lagos
+Protea Hotel
+Dubai, United Arab Emirates:
+Burj Al Arab Jumeirah
+Jumeirah Emirates Towers
+The Ritz-Carlton, Dubai International Financial Centre
+Abu Dhabi, United Arab Emirates:
+Emirates Palace Abu Dhabi
+The Ritz-Carlton Abu Dhabi, Grand Canal
+InterContinental Abu Dhabi
+Doha, Qatar:
+The St. Regis Doha
+Four Seasons Hotel Doha
+The Ritz-Carlton, Doha
+Moscow, Russia:
+Lotte Hotel Moscow
+Ritz-Carlton Moscow
+The St. Regis Moscow Nikolskaya
+Madrid, Spain:
+The Westin Palace, Madrid
+The Ritz Madrid
+AC Hotel Atocha by Marriott
+London, United Kingdom:
+The Ritz London
+Claridge's
+The Dorchester
+Paris, France:
+Le Meurice
+Shangri-La Hotel, Paris
+Four Seasons Hotel George V, Paris
+Rome, Italy:
+Hotel Eden
+The St. Regis Rome
+The First Luxury Art Hotel Roma
+Athens, Greece:
+The King George, a Luxury Collection Hotel, Athens
+Hilton Athens
+The St. Regis Athens
+New York City, United States:
+The Plaza Hotel
+The Ritz-Carlton New York, Central Park
+The St. Regis New York
+Miami, United States:
+The Ritz-Carlton, South Beach
+Loews Miami Beach Hotel
+The Setai, Miami Beach
+Washington D.C., United States:
+The Ritz-Carlton Georgetown, Washington D.C.
+Four Seasons Hotel Washington, D.C.
+The Hay-Adams
+San Francisco, United States:
+The Ritz-Carlton, San Francisco
+Four Seasons Hotel San Francisco
+The St. Regis San Francisco
+Toronto, Canada:
+The Ritz-Carlton, Toronto
+Four Seasons Hotel Toronto
+The Hazelton Hotel
+Sydney, Australia:
+The InterContinental Sydney
+The Park Hyatt Sydney
+The Shangri-La Hotel, Sydney
+Cape Town, South Africa:
+The Table Bay
+The One&Only Cape Town
+The Westin Cape Town
+Nairobi, Kenya:
+The Sarova Stanley
+The InterContinental Nairobi
+The Nairobi Serena Hotel
+Johannesburg, South Africa:
+The Saxon Hotel, Villas & Spa
+The Michelangelo Hotel
+The Westcliff
+Tunis, Tunisia:
+The Residence Tunis
+The Golden Tulip Carthage Tunis
+The Palmarina Hammamet
+Marrakesh, Morocco:
+Royal Mansour Marrakech
+La Sultana Marrakech
+Mandarin
+Beijing, China:
+The Ritz-Carlton, Beijing
+The Opposite House
+The St. Regis Beijing
+Shanghai, China:
+The Portman Ritz-Carlton, Shanghai
+The Bund Hotel Shanghai
+The St. Regis Shanghai Jingan
+Tokyo, Japan:
+The Ritz-Carlton, Tokyo
+The Park Hyatt Tokyo
+The Mandarin Oriental, Tokyo
+Bangkok, Thailand:
+The Mandarin Oriental, Bangkok
+The Siam
+The St. Regis Bangkok
+Hanoi, Vietnam:
+Sofitel Legend Metropole Hanoi
+The InterContinental Hanoi Landmark72
+The Sheraton Hanoi Hotel
+Mumbai, India:
+The Taj Mahal Palace, Mumbai
+The InterContinental Marine Drive Mumbai
+The Oberoi Mumbai
+Delhi, India:
+The Imperial Delhi
+The Leela Palace New Delhi
+The Lodhi, New Delhi
+Manila, Philippines:
+The Manila Hotel
+The Ritz-Carlton Manila
+The Okada Manila
+Jakarta, Indonesia:
+The Ritz-Carlton Jakarta, Pacific Place
+The Dharmawangsa Jakarta
+The St. Regis Jakarta
+Singapore:
+The Ritz-Carlton, Millenia Singapore
+The Marina Bay Sands
+The Fullerton Heritage, Singapore
+Kuala Lumpur, Malaysia:
+The Ritz-Carlton, Kuala Lumpur
+The St. Regis Kuala Lumpur
+The Mandarin Oriental, Kuala Lumpur
+Ho Chi Minh City, Vietnam:
+The Park Hyatt Saigon
+The InterContinental Asiana Saigon
+The Caravelle Saigon
+Hong Kong:
+The Upper House
+The Ritz-Carlton, Hong Kong
+The St. Regis Hong Kong
+Seoul, South Korea:
+The Ritz-Carlton, Seoul
+The Shilla Seoul
+The St. Regis Seoul
+Taipei, Taiwan:
+The Grand Hyatt Taipei
+The W Taipei
+The Sheraton Grand Taipei Hotel
+Phnom Penh, Cambodia:
+The Raffles Hotel Le Royal
+The InterContinental Phnom Penh
+The FCC Angkor, Siem Reap
+Yangon, Myanmar:
+The Strand Yangon
+The Sule Shangri-La, Yangon
+The Chatrium Hotel Royal Lake Yangon
+Chiang Mai, Thailand:
+The Dhara Dhevi Chiang Mai
+The Four Seasons Resort Chiang Mai
+The Anantara Chiang Mai Resort
+Bali, Indonesia:
+The Four Seasons Resort Bali at Sayan
+The Ritz-Carlton Bali
+The St. Regis Bali Resort
+Paris, France:
+Le Meurice
+Hotel Plaza Athénée
+The Ritz Paris
+Berlin, Germany:
+The Ritz-Carlton, Berlin
+The Adlon Kempinski Berlin
+The St. Regis Berlin
+Vienna, Austria:
+The Ritz-Carlton, Vienna
+The Grand Hotel Wien
+The InterContinental Vienna
+Moscow, Russia:
+The Ritz-Carlton, Moscow
+The Ararat Park Hyatt Moscow
+The St. Regis Moscow Nikolskaya
+London, United Kingdom:
+The Ritz London
+The Savoy, A Fairmont Managed Hotel
+The Dorchester
+Madrid, Spain:
+The Ritz Madrid
+The Westin Palace, Madrid
+The Mandarin Oriental, Madrid
+Rome, Italy:
+The St. Regis Rome
+The Grand Hotel de la Minerve
+The Westin Excelsior, Rome
+Amsterdam, Netherlands:
+The InterContinental Amstel Amsterdam
+The Sofitel Legend The Grand Amsterdam
+The Andaz Amsterdam Prinsengracht
+Lisbon, Portugal:
+The Four Seasons Hotel Ritz Lisbon
+The Pestana Palace Lisbon
+The InterContinental Lisbon
+Copenhagen, Denmark:
+The d'Angleterre
+The Skt. Petri
+The Nimb Hotel
+Zurich, Switzerland:
+The Baur au Lac
+The Storchen
+The Widder Hotel
+Stockholm, Sweden:
+The Grand Hotel Stockholm
+The Berns Hotel
+The Nobis Hotel Stockholm
+Helsinki, Finland:
+The Hotel Kämp
+The Hilton Helsinki Kalastajatorppa
+The Original Sokos Hotel Helsinki
+Oslo, Norway:
+The Grand Hotel Oslo
+The Radisson Blu Plaza Hotel, Oslo
+The Thief
+Reykjavik, Iceland:
+The Icelandair Hotel Reykjavik Marina
+The Hilton Reykjavik Nordica
+The Hotel Borg by Keahotels
+Dublin, Ireland:
+The Westbury Hotel
+The Four Seasons Hotel Dublin
+The Merrion
+Edinburgh, Scotland:
+The Balmoral
+The Caledonian, A Waldorf Astoria Hotel
+The Old Town Chambers
+Glasgow, Scotland:
+The Blythswood Square Hotel
+The Grand Central Hotel
+The One Devonshire Gardens
+Liverpool, United Kingdom:
+The Titanic Hotel Liverpool
+The Pullman Liverpool
+The Hard Days Night Hotel
+Manchester, United Kingdom:
+The Midland Hotel
+The Lowry Hotel
+The Hilton Manchester Deansgate
+Toronto, Canada:
+The Ritz-Carlton, Toronto
+The Four Seasons Hotel Toronto
+The Shangri-La Hotel, Toronto
+New York, USA:
+The Plaza Hotel
+The Waldorf Astoria New York
+The St. Regis New York
+Los Angeles, USA:
+The Beverly Hills Hotel
+The Montage Beverly Hills
+The Bel-Air Hotel
+Miami, USA:
+The Fontainebleau Miami Beach
+The Mandarin Oriental, Miami
+The St. Regis Bal Harbour Resort
+Chicago, USA:
+The Four Seasons Hotel Chicago
+The Thompson Chicago
+The Ritz-Carlton, Chicago
+Houston, USA:
+The St. Regis Houston
+The Four Seasons Hotel Houston
+The Hotel Granduca Houston
+San Francisco, USA:
+The Ritz-Carlton, San Francisco
+The Four Seasons Hotel San Francisco
+The St. Regis San Francisco
+Washington D.C., USA:
+The Ritz-Carlton, Washington D.C.
+The Hay-Adams
+The Four Seasons Hotel Washington D.C.
+Seattle, USA:
+The Four Seasons Hotel Seattle
+The Thompson Seattle
+The Kimpton Hotel Monaco Seattle
+Vancouver, Canada:
+The Four Seasons Hotel Vancouver
+The Rosewood Hotel Georgia
+The Fairmont Pacific Rim
+Mexico City, Mexico:
+The St. Regis Mexico City
+The Four Seasons Hotel Mexico City
+The JW Marriott Mexico City
+Rio de Janeiro, Brazil:
+The Copacabana Palace
+The Sofitel Rio de Janeiro Ipanema
+The Belmond Copacabana Palace
+Buenos Aires, Argentina:
+The Alvear Palace Hotel
+The Four Seasons Hotel Buenos Aires
+The Palermo Hollywood Hotel
+Lima, Peru:
+The Belmond Miraflores Park
+The Swissôtel Lima
+The JW Marriott Hotel Lima
+Santiago, Chile:
+The W Santiago
+The Ritz-Carlton, Santiago
+The Grand Hyatt Santiago
+Brasília, Brazil:
+The JW Marriott Hotel Brasília
+The Brasília Palace Hotel
+The Royal Tulip Brasília Alvorada
+Bogotá, Colombia:
+The Four Seasons Hotel Casa Medina Bogotá
+The JW Marriott Hotel Bogotá
+The Grand Hyatt Bogotá
+Montevideo, Uruguay:
+The Sofitel Montevideo Casino Carrasco & Spa
+The Radisson Montevideo Victoria Plaza Hotel
+The NH Collection Montevideo Colonial
+Quito, Ecuador:
+The Swissôtel Quito
+The JW Marriott Quito
+The Hilton Colon Quito
+Guayaquil, Ecuador:
+The Oro Verde Hotel & Casino Guayaquil
+The Hilton Colon Guayaquil
+The Wyndham Guayaquil
